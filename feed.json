@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Travel Itinerary",
+    "description": "",
+    "home_page_url": "https://aakashkh.github.io/publii",
+    "feed_url": "https://aakashkh.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aakash Khandelwal"
+    },
+    "items": [
+        {
+            "id": "https://aakashkh.github.io/publii/first-post.html",
+            "url": "https://aakashkh.github.io/publii/first-post.html",
+            "title": "First {post}",
+            "summary": "This is a first page",
+            "content_html": "<p>This is a first page</p>",
+            "author": {
+                "name": "Aakash Khandelwal"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-09T16:21:49+05:30",
+            "date_modified": "2025-01-09T16:21:49+05:30"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Travel Itinerary</title>
+    <link href="https://aakashkh.github.io/publii/feed.xml" rel="self" />
+    <link href="https://aakashkh.github.io/publii" />
+    <updated>2025-01-09T16:21:49+05:30</updated>
+    <author>
+        <name>Aakash Khandelwal</name>
+    </author>
+    <id>https://aakashkh.github.io/publii</id>
+
+    <entry>
+        <title>First {post}</title>
+        <author>
+            <name>Aakash Khandelwal</name>
+        </author>
+        <link href="https://aakashkh.github.io/publii/first-post.html"/>
+        <id>https://aakashkh.github.io/publii/first-post.html</id>
+
+        <updated>2025-01-09T16:21:49+05:30</updated>
+            <summary>
+                <![CDATA[
+                    This is a first page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a first page</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
